@@ -1,0 +1,9 @@
+{
+  "ban_function": true,
+  "welcome_messages": true,
+  "auto_moderation": false,
+  "logs": true,
+  "dm_notifications": true,
+  "anti_spam": false,
+  "auto_role": false
+}
